@@ -1,4 +1,4 @@
-#include "egl.h"
+#include "sgl.h"
 
 int main() {
     int ret = rungraph(50, 50, 800, 600);

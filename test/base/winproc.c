@@ -1,4 +1,4 @@
-#include "egl.h"
+#include "sgl.h"
 
 LRESULT CALLBACK winProc(HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam) {
     switch (uMsg) {
